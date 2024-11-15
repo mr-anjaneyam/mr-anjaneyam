@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Metasploit, Docker, etc**
 
-- 👨‍💻 All of my projects are available at [srianjaneyam.tech](srianjaneyam.tech)
+- 👨‍💻 All of my projects are available at [srianjaneyam.tech](https://srianjaneyam.tech)
 
 - 💬 Ask me about **python, java, web development**
 
